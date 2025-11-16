@@ -20,6 +20,39 @@ public class Operator {
 
         // System.out.println(a != b);
 
-        
+        // Assignment Operator = , += , -= , *= , /= , %=
+
+        // int a = 10;
+
+        // // a = a + 20;
+
+        // a %= 20;
+
+        // System.out.println(a);
+
+        // Unary Operator
+
+        // System.out.println(a--);
+        // System.out.println(a);
+        // System.out.println(a++);
+        // System.out.println(++a);
+        // System.out.println(--a);
+        // System.out.println(a++);
+        // System.out.println(++a);
+        // System.out.println(--a);
+        // System.out.println(a--);
+        // System.out.println(a);
+        // System.out.println(--a);
+        // System.out.println(a--);
+        // System.out.println(a++);
+
+        // int a = 5;
+        // int b = 7;
+        // int c = 3;
+
+        // int ans = a++ - --b + ++c - a-- + c++ - a++ + c-- + a++ - --b - ++a - --c;
+
+        // System.out.println(ans);
+
     }
 }
