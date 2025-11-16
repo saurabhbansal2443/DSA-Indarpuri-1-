@@ -2,15 +2,24 @@ public class Operator {
     public static void main(String[] args) {
         // Arithemtic Operator , + , - , * , / , %
 
-        int a = 10;
-        int b = 20;
+        // int a = 10;
+        // int b = 20;
 
-        int sum = a + b;
-        int sub = a - b;
-        int mult = a * b;
-        int div = a / b;
-        int mod = a % b;
+        // int sum = a + b;
+        // int sub = a - b;
+        // int mult = a * b;
+        // int div = a / b;
+        // int mod = a % b;
 
-        System.out.println(mod);
+        // System.out.println(mod);
+
+        // Comparision Operator , < , > , <= , >= , == , !=
+
+        // int a = 10;
+        // int b = 20;
+
+        // System.out.println(a != b);
+
+        
     }
 }
