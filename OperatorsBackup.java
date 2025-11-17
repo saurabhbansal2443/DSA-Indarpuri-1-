@@ -30,7 +30,7 @@ public class OperatorsBackup {
         // System.out.println(a);
         // Increment/Decrement Operator
 
-        int a = 5;
+        int a = 10;
 
         System.out.println(--a);
         System.out.println(--a);
@@ -38,8 +38,11 @@ public class OperatorsBackup {
         System.out.println(a--);
         System.out.println(++a);
         System.out.println(a++);
-        System.out.println(--a);
         System.out.println(a--);
+        System.out.println(++a);
+        System.out.println(a++);
+        System.out.println(--a);
+        System.out.println(a++);
         System.out.println(++a);
 
     }
