@@ -4,7 +4,7 @@ import java.util.*;
 
 public class PositiveNegativeZero {
     public static void main(String[] args) {
-        // Write a program to check whether a number is negative, positive or zero
+        //Question 1.  Write a program to check whether a number is negative, positive or zero
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
