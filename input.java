@@ -4,27 +4,21 @@ public class input {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // System.out.println("Enter you name ");
+        // System.out.println("Enter User's name ");
 
         // String name = sc.next();
 
-        // System.out.println("User name is " + name);
+        // System.out.println("User's name is " + name);
 
-        // System.out.println("Enter you Age ");
+        System.out.println("Enter User's Age ");
+
         // int age = sc.nextInt();
-        // System.out.println("User age is " + age);
 
-        // System.out.println("Enter your gender ");
+        // char gender = sc.next().charAt(0);
 
-        // char ch = sc.next().charAt(0);
+        double percenatge = sc.nextDouble();
 
-        // System.out.println("User's Gender is " + ch);
-
-        System.out.println("Percentage");
-
-        double db = sc.nextDouble();
-
-        System.out.println("User's 10th percetage is " + db);
+        System.out.println("User's name is " + percenatge);
 
     }
 }
