@@ -1,24 +1,28 @@
 import java.util.*;
 
-public class input {
+public class Input {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // System.out.println("Enter User's name ");
+        System.out.println("Enter your Name");
 
-        // String name = sc.next();
+        String name = sc.next();
 
-        // System.out.println("User's name is " + name);
+        System.out.println("Enter the age of user ");
 
-        System.out.println("Enter User's Age ");
+        int age = sc.nextInt();
 
-        // int age = sc.nextInt();
+        System.out.println("Enter the percetage ");
 
-        // char gender = sc.next().charAt(0);
+        double percentage = sc.nextDouble();
 
-        double percenatge = sc.nextDouble();
+        System.out.println("Enter the gender");
 
-        System.out.println("User's name is " + percenatge);
+        char gender = sc.next().charAt(0);
 
+        System.out.println("User's name is " + name);
+        System.out.println("User's age is " + age);
+        System.out.println("User's percetage is " + percentage);
+        System.out.println("User's gender is " + gender);
     }
 }
